@@ -44,14 +44,13 @@ namespace Hello
             string inp =Console.ReadLine();
             Console.WriteLine("You have entered " + inp); //Output the value of Some
 
-            //TypeCast
+            //TypeCast 
 
             int a = 45;
-            float b = 35.4F;
-            double c = 63.4D;
-
             Console.WriteLine(a);
+            float b = 35.4F;
             Console.WriteLine(b);
+            double c = 63.4D;
             Console.WriteLine(c);
 
             Console.ReadLine();
